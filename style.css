@@ -116,7 +116,7 @@ flex-wrap: wrap;
             justify-content: center;
             align-items: center;
         }.body{
-            min-height: 1000vh;
+            min-height: 100vh;
          background: url("bg.jpg");   
         background-size: 100vw 100vh;
         background-repeat:no-repeat;
