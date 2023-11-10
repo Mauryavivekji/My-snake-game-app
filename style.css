@@ -4,7 +4,7 @@
 }
 .body{
     min-height: 100vh;
- background: url("img/bg.jpg");   
+ background: url("bg.jpg");   
 background-size: 100vw 100vh;
 background-repeat:no-repeat;
 display: flex;
@@ -90,7 +90,7 @@ flex-wrap: wrap;
 @media (max-width:784px){
     .body{
         min-height: 100vh;
-     background: url("img/bg.jpg");   
+     background: url("bg.jpg");   
     background-size: 100vw 100vh;
     background-repeat:no-repeat;
     display: flex;
@@ -117,7 +117,7 @@ flex-wrap: wrap;
             align-items: center;
         }.body{
             min-height: 1000vh;
-         background: url("img/bg.jpg");   
+         background: url("bg.jpg");   
         background-size: 100vw 100vh;
         background-repeat:no-repeat;
         display: flex;
